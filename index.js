@@ -30,3 +30,4 @@ function gestorTareas() {
     console.log(`${index + 1}. ${tarea}`);
   });
 }
+
